@@ -18,13 +18,13 @@ You can click the Preview link to take a look at your changes.
 
 - 👀 I'm actively seeking **job opportunities in the field of cybersecurity.**
 
-- 👨‍💻 During my internship at Deià School of Art and Design from January 2022 to June 2022, my responsibilities included:
-      - Reviewing and maintaining devices (computers, keyboards, mice, etc.).
-      - Reporting technical faults.
-      - Installing and updating software.
-      - Cloning hard drives.
-      - Delivering laptops to students.
-      - Storing laptop boxes.
+👨‍💻 During my internship at Deià School of Art and Design from January 2022 to June 2022, my responsibilities included:
+- Reviewing and maintaining devices (computers, keyboards, mice, etc.).
+- Reporting technical faults.
+- Installing and updating software.
+- Cloning hard drives.
+- Delivering laptops to students.
+- Storing laptop boxes.
 
 - 📫 You can reach me via email at **josep11figuera@gmail.com**
 
