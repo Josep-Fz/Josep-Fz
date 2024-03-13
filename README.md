@@ -1,3 +1,4 @@
+<!---
 - 👋 Hi, I’m @Josep-Fz
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,18 +7,24 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
 Josep-Fz/Josep-Fz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <h1 align="center">Hi 👋, I'm Josep Figueroa Zavala</h1>
 <h3 align="center">A passionate frontend developer from InI'm a student of CFGS in Computer Systems Administration and Networking, with experience in the field. I'm a responsible, sociable worker with experience in supply chain management in stores.dia</h3>
 
 - 🔭 I’m currently studying **ASIR in Cybersecurity at Institut Tecnologic de Barcelona.**
 
-- 🤝 I'm actively seeking **job opportunities in the field of cybersecurity.**
+- 👀 I'm actively seeking **job opportunities in the field of cybersecurity.**
 
-- 👨‍💻 During my internship at Deià School of Art and Design from January 2022 to June 2022, my responsibilities included: [- Reviewing and maintaining devices (computers, keyboards, mice, etc.). - Reporting technical faults. - Installing and updating software. - Cloning hard drives. - Delivering laptops to students. - Storing laptop boxes.](- Reviewing and maintaining devices (computers, keyboards, mice, etc.). - Reporting technical faults. - Installing and updating software. - Cloning hard drives. - Delivering laptops to students. - Storing laptop boxes.)
+- 👨‍💻 During my internship at Deià School of Art and Design from January 2022 to June 2022, my responsibilities included:
+      - Reviewing and maintaining devices (computers, keyboards, mice, etc.).
+      - Reporting technical faults.
+      - Installing and updating software.
+      - Cloning hard drives.
+      - Delivering laptops to students.
+      - Storing laptop boxes.
 
 - 📫 You can reach me via email at **josep11figuera@gmail.com**
 
